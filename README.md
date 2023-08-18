@@ -31,3 +31,18 @@
 </ol>
 
 ![Screenshot 2023-08-11 174940](https://github.com/Nathan-Chantiny/NathanChantiny_Training_Modules/assets/90058261/0ca65bb8-d21b-4766-affa-c08cb58f0d4c)
+
+
+
+
+
+<h1>Nathan Chantiny Module Three</h1>
+
+<h2>Answers:</h2>
+
+<ol>
+  <li>#</li>
+  <li>//</li>
+  <li>''' ... '''</li>
+  <li>/* ... */</li>
+</ol>
