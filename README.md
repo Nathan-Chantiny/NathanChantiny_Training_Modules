@@ -46,3 +46,11 @@
   <li>''' ... '''</li>
   <li>/* ... */</li>
 </ol>
+
+<h2>Module 3: Question 8</h2>
+
+<h3>Description:</h3>
+<p>A simple program in C++ where you add the sum of two numbers and determine if the sum is odd or even.</p>
+
+<h3>Parameters:</h3>
+<p>num1 & num2 integer values to be added together</p>
